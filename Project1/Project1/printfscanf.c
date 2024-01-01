@@ -2,22 +2,11 @@
 
 int main( void ) {
 
-	int age = 12;
+	int add = 3 + 7;
 
-	printf("%d", age);
-
-	age = 13;
-
-	printf("%d\n", age);
-
-	//double d = 15.5;
-	//printf("%.1lf", d);
-
-	const int ps = 1500;	// 상수 지정
-
-	printf("%d", ps); 
-
-	//확인 체크 어아아댇ffewef
+	printf("%d \n", add);
+	
+	printf("%d  +  %d =  %d", 30, 70, 30 + 70);
 
 	return 0;
 }
