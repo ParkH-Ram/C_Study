@@ -17,7 +17,7 @@ int main( void ) {
 
 	printf("%d", ps); 
 
-
+	//»Æ¿Œ
 
 	return 0;
 }
