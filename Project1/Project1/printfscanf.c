@@ -1,4 +1,4 @@
-#include <stdio.h> 
+ï»¿#include <stdio.h> 
 
 int main( void ) {
 
@@ -13,11 +13,11 @@ int main( void ) {
 	//double d = 15.5;
 	//printf("%.1lf", d);
 
-	const int ps = 1500;	// »ó¼ö ÁöÁ¤
+	const int ps = 1500;	// ìƒìˆ˜ ì§€ì •
 
 	printf("%d", ps); 
 
-	//È®ÀÎ
+	//í™•ì¸ ì²´í¬ ì–´ì•„ì•„ëŒ‡
 
 	return 0;
 }
