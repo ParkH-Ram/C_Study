@@ -17,7 +17,7 @@ int main( void ) {
 
 	printf("%d", ps); 
 
-	//확인 체크 어아아댇
+	//확인 체크 어아아댇ffewef
 
 	return 0;
 }
