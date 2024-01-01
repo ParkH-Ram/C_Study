@@ -10,8 +10,12 @@ int main( void ) {
 
 	printf("%d\n", age);
 
-	double d = 15.5;
-	printf("%.1lf", d);
+	//double d = 15.5;
+	//printf("%.1lf", d);
+
+	const int ps = 1500;	// 상수 지정
+
+	printf("%d", ps); 
 
 
 
