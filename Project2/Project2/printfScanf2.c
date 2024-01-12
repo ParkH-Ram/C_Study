@@ -42,5 +42,6 @@ int main(void) {
 
 	printf("uiA °ªÀº? %u", uiA);
 
+
 	return 0;
 }
