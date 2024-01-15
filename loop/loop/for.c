@@ -119,14 +119,28 @@ int main() {
 	}
 	printf("%d \n", sum);
 
-	
-	// n 줄인 삼각형 출력 ( n은 입력 받음 )
+	int n;
 
+	printf("원하는 숫자를 입력 하세요 1 ~ 10 \n");
+	scanf_s("%d", &n);
 
+	printf("  직각 삼각형 \n");
+	// n 줄인 직각 삼각형 출력 ( n은 입력 받음 )
+	for (int i = 1; i <= n; i++) {
+		for (int j = 1; j <= i; j++) {
+			printf("*");
+		}
+		printf("\n");
+	}
 
-
-	// n 줄인 역삼각형 삼각형 출력 ( n은 입력 받음 )
-
+	printf("\n \n \n  역 직각 삼각형 \n");
+	// n 줄인 역 직각 삼각형 삼각형 출력 ( n은 입력 받음 )
+	for (int i = n; i >= 1; i--) {
+		for (int j = 1; j <= i; j++) {
+			printf("*");
+		}
+		printf("\n");
+	}
 
 
 
