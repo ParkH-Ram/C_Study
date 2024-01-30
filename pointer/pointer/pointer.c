@@ -22,12 +22,6 @@ int main(void) {
 	printf(" p의 값은 : %d \n", *p);
 	printf(" a의 주소값은 : %p \n", &a);
 	printf(" p의 주소값은 : %p \n", &p);
-	
-	p = NULL;
-
-	printf("p의 값은 : %d  \n", *p);
-	
-
 
 	int* s;
 	int b;

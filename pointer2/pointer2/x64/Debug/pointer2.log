@@ -1,0 +1,10 @@
+﻿  pointer2.c
+D:\GitSpace\C_Study\pointer2\pointer2\pointer2.c(50,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  D:\GitSpace\C_Study\pointer2\pointer2\pointer2.c(50,9):
+  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+  D:\GitSpace\C_Study\pointer2\pointer2\pointer2.c(50,9):
+  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+  D:\GitSpace\C_Study\pointer2\pointer2\pointer2.c(50,9):
+  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+  pointer2.vcxproj -> D:\GitSpace\C_Study\pointer2\x64\Debug\pointer2.exe
