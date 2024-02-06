@@ -10,7 +10,7 @@ int main(void) {
 	printf("%s\n", str);
 
 	for (int i = 0; str[i] != '\0'; i++) {  // null 만나기전까지 
-		
+
 		str[i] -= 32; // 대문자로 변환
 	}
 
@@ -30,7 +30,7 @@ int main(void) {
 
 	printf("변경 후 문자열 : %s\n", charArray);
 
- 
+
 	// 주의할점
 
 	// 주소 부터 널 문자까지 배열에 복사한다. 
