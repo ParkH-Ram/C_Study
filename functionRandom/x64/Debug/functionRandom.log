@@ -1,0 +1,4 @@
+﻿  funcRan.c
+D:\GitSpace\C_Study\functionRandom\funcRan.c(16,24): warning C4244: '초기화 중': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\GitSpace\C_Study\functionRandom\funcRan.c(37,23): warning C4244: '초기화 중': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  functionRandom.vcxproj -> D:\GitSpace\C_Study\functionRandom\x64\Debug\functionRandom.exe
